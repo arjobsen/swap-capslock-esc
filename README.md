@@ -5,7 +5,8 @@ Because Escape is used every day, every hour or maybe even more. And you'll rare
 
 _How?_
 
-Download and install [AutoHotkey](https://www.autohotkey.com/download/). Put SwapCapsLockEsc.ahk in %APPDATA%/Roaming/Microsoft/Windows/Start Menu/Programs/Startup to start the script automatically at boot.
+Download and install [AutoHotkey](https://www.autohotkey.com/download/) for Windows. Put SwapCapsLockEsc.ahk in %APPDATA%/Roaming/Microsoft/Windows/Start Menu/Programs/Startup to start the script automatically at boot.
 
 _More of this?_
-Fond of more typing with less finger movement. Check out the Dvorak keyboard layout.
+
+Like typing with less finger movement? Check out the Dvorak keyboard layout.

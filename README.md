@@ -1,7 +1,7 @@
 # Use AutoHotkey to swap the Caps Lock and Esc key
 _Why?_
 
-Because Escape is used every day, every hour or maybe even more. And you'll rarely use Caps Lock. Except for when you're a very angry person or a SQL developer. Your pinkie will thank you for putting the keys you use most closer together.
+Because Escape is used every day, every hour or maybe even more. And you'll rarely use Caps Lock. Unless you're a very angry person or a SQL developer. Your pinkie will thank you for putting the keys you use most closer together.
 
 _How?_
 

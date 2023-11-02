@@ -5,3 +5,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 Capslock::Esc
 Esc::Capslock
+
+; Also useful: AltGr + 5 -> €
+RAlt & 5::
+Send, {Text}€
+return
